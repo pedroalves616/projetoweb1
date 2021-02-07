@@ -1,0 +1,53 @@
+
+
+#centro
+{
+
+text-align: center;
+
+}
+
+
+ #pp {
+  color: #5d665b;
+  font-size: small;
+  font-family: Verdana, Geneva, Arial, sans-serif;
+  background-color: #e8eae8;
+
+  }
+  a{
+    color:#363636;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px; 
+  }
+
+  #principal
+  {
+  	background: #848484;
+  	width: 1355px;
+}
+#menu
+{
+	background: #848484
+	padding:20px;
+
+}
+#conteudo
+{
+  padding: 15px;
+}
+
+.home_receita {
+    display: inline-block;
+    width: 50%;
+    margin-bottom: 30px;
+    padding-right: 15px;
+    text-align: center;
+    vertical-align: top;
+}
+
+div.box {
+        width: 400px;
+        display: inline-block;
+      }
